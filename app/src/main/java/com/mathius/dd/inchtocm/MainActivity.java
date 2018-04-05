@@ -332,11 +332,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 String miles = getString(R.string.miles);
 
                 if (mTvFirstState.getText().equals(miles)) {
-                    miles = "mi";
-                    kilometres = "km";
+                    miles = "in";
+                    kilometres = "cm";
                 } else {
-                    miles = "km";
-                    kilometres = "mi";
+                    miles = "cm";
+                    kilometres = "in";
                 }
 
                 //Записываем в список дял истории

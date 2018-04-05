@@ -6,8 +6,6 @@
     <string name="enter_text_in_cyrillic_kazakh">Enter number</string>
     <string name="share_using">Share using?</string>
     <string name="TextCopied">Text copied</string>
-    <string name="in" translatable="false">in</string>
-    <string name="cm" translatable="false">cm</string>
     <string name="kilometres">Centimeters</string>
     <string name="miles">Inches</string>
     <string name="id_admob">ca-app-pub-3941279894802307/3007355531</string>
