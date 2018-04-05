@@ -1,4 +1,4 @@
-package com.mathius.dd.milestokm;
+package com.mathius.dd.inchtocm;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
@@ -169,9 +169,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //Проверяем если стоит Мили тогда конвертируем в километры и наоборот
         ml_to_km = temp;
         if (mTvFirstState.getText().equals(getString(R.string.miles))) {
-            result = Double.valueOf(ml_to_km) * 1.609344;
+            result = Double.valueOf(ml_to_km) * 2.54;
         } else {
-            result = Double.valueOf(ml_to_km) * 0.621371192237334;
+            result = Double.valueOf(ml_to_km) / 2.54;
         }
 
         //сконвертированную единицу вставляем в textview

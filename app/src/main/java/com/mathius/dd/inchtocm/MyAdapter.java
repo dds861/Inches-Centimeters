@@ -1,4 +1,4 @@
-package com.mathius.dd.milestokm;
+package com.mathius.dd.inchtocm;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

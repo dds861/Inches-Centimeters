@@ -5,7 +5,7 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorAccent">@color/accent</item>
     </style>
 
     <style name="textViews">
@@ -39,4 +39,8 @@
         <item name="contentPaddingRight">16dp</item>
 
     </style>
+
+    <style name="Theme">th</style>
+
+    <style name="ThemeOverlay">th2</style>
 </resources>

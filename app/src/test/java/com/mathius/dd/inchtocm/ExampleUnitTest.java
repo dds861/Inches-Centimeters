@@ -1,4 +1,4 @@
-package com.mathius.dd.milestokm;
+package com.mathius.dd.inchtocm;
 
 import org.junit.Test;
 
